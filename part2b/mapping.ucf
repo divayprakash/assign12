@@ -1,0 +1,3 @@
+NET "clk" LOC = "B8";				//Internal FPGA clock
+NET "rst" LOC = "A7";				//Reset signal to BTN
+NET "f_out_final" LOC = "N4";		//Final frequency output to LD5

@@ -1,0 +1,11 @@
+NET "clk" LOC = "B8"				//Internal FPGA clock
+NET "rst" LOC = "A7"				//Reset signal to BTN
+NET "an" LOC = "F12"				//Connect to commom anode AN3
+NET "ss<0>" LOC = "L14"				//Connect to commom cathode CA
+NET "ss<1>" LOC = "H12"				//Connect to commom cathode CB
+NET "ss<2>" LOC = "N14"				//Connect to commom cathode CC
+NET "ss<3>" LOC = "N11"				//Connect to commom cathode CD
+NET "ss<4>" LOC = "P12"				//Connect to commom cathode CE
+NET "ss<5>" LOC = "L13"				//Connect to commom cathode CF
+NET "ss<6>" LOC = "M12"				//Connect to commom cathode CG
+NET "ss<7>" LOC = "N13" 			//Connect to commom cathode DP
